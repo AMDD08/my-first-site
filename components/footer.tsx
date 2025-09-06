@@ -255,7 +255,7 @@ export function Footer() {
             <button
               onClick={scrollToTop}
               className="p-2 rounded-full hover:bg-muted transition-colors"
-              aria-label="맨 위로"
+              aria-label="맨 위로">
             >
               <ArrowUp className="h-4 w-4 text-muted-foreground" />
             </button>
