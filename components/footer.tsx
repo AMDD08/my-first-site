@@ -23,7 +23,7 @@ export function Footer() {
   // 기본 데이터
   const defaultInfo = {
     showFooter: true,
-    name: "The Next Local Brand",
+    name: "INVEST & PARTNERSHIP",
     description: "음식과 공간, 콘텐츠를 넘나들며 사람들의 평범한 하루를 특별한 이야기로 만드는 로컬 브랜드를 기획하고 있습니다. 그 첫 번째 프로젝트인 '쇼바(SHOBAR)'를 시작으로, 지역의 가치를 높이고 새로운 문화를 만들어갈 여정에 함께할 투자자 및 비즈니스 파트너분들의 연락을 기다립니다.",
     showQuickLinks: true,
     quickLinksTitle: "빠른 링크",
