@@ -34,9 +34,9 @@ export function Footer() {
     location: "Seoul",
     copyright: "© 2025 LEE. All rights reserved.",
     showMadeWith: true,
-    madeWithLocation: "Mrbaeksang",
+    madeWithLocation: "LEE",
     showTemplateCredit: true,
-    templateCreator: {"name":"백상","youtube":"https://www.youtube.com/@Mrbaeksang95/videos","website":"https://devcom.kr/","email":"qortkdgus95@gmail.com"},
+    templateCreator: {"name":"LEE","youtube":"https://www.youtube.com/@allmydayday","website":"https://www.instagram.com/allmydayday/?hl=ko","email":"allmydayday@gmail.com"},
     showScrollTop: true
   }
 
