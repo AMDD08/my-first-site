@@ -48,8 +48,8 @@ export function Contact() {
     sectionSubtitle: "새로운 기회는 언제나 환영합니다.",
     qrTitle: "QR 코드로 연락처 저장",
     qrSubtitle: "스캔하면 연락처가 자동으로 저장됩니다",
-    bottomMessage: "함께 새로운 경험을 만들어갈 파트너를 찾습니다",
-    bottomSubMessage: "다음 챕터를 함께 써 내려갈 분들을 기다립니다.",
+    bottomMessage: "당신의 이야기가, 우리의 다음 프로젝트가 될 수 있습니다.",
+    bottomSubMessage: "좋은 아이디어를 위대한 현실로 함께 만들어갈 파트너를 찾습니다.",
     qrContent: ["name","phone","email","location","website"],
     profileEmoji: "👤",
     background: {"image":"","video":"","color":"","opacity":0.1}
