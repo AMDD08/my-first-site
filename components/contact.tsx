@@ -45,11 +45,11 @@ export function Contact() {
     workTime: "AM 11:00 - AM 02:00",
     responseTime: "24시간 이내 응답",
     sectionTitle: "Contact",
-    sectionSubtitle: "프로젝트 문의나 협업 제안을 기다리고 있습니다. 편하신 방법으로 연락주세요!",
+    sectionSubtitle: "함께 새로운 경험을 만들어갈 파트너를 찾습니다.",
     qrTitle: "QR 코드로 연락처 저장",
     qrSubtitle: "스캔하면 연락처가 자동으로 저장됩니다",
     bottomMessage: "함께 새로운 경험을 만들어갈 파트너를 찾습니다",
-    bottomSubMessage: "가치를 알아보는 분들의 참여를 기다립니다.",
+    bottomSubMessage: "다음 챕터를 함께 써 내려갈 분들을 기다립니다.",
     qrContent: ["name","phone","email","location","website"],
     profileEmoji: "👤",
     background: {"image":"","video":"","color":"","opacity":0.1}
