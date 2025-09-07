@@ -13,8 +13,8 @@ export function Projects() {
   const { getData, saveData, isEditMode, saveToFile } = useInlineEditor()
   // 기본 데이터
   const defaultInfo = {
-    title: "프로젝트",
-    subtitle: "프로젝트",
+    title: "Projects",
+    subtitle: "THE FIRST CHAPTER: SHOBAR",
     initialDisplay: 6,
     loadMoreCount: 3,
     background: {"image":"","video":"","color":"","opacity":0.1},
